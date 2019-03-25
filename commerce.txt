@@ -1,0 +1,31 @@
+shopper 20
+seen on 30
+orders shipped 45
+order status 35
+order 45
+free website 100
+free voucher 85
+free trail 90
+free sample 90
+free sale 78
+free quote 90
+free preview 90
+free offer 100
+free money 100
+free mobile 95
+free membership 90
+free leads 90
+free investment 95
+free instant 85
+free installation 95
+free hosting 90
+free grant 95
+free gift 90
+free dvd 70
+free consultation 90
+free access 100
+free 90
+clearance 82
+buying judgements 50
+buy direct 70
+buy 20
