@@ -1,12 +1,3 @@
-P038 - Spam/Ham Classification
-
-
-Group members:
-Anjali Poornima Karri: 201611132
-Chadalavada Mounika: 201611117
-Karuturi Sri Harshitha: 201611133
-Parkhi Mohan: 201601061
-
 The project is a system that classifies emails as spam or ham based on some predefined Blacklisted words (the user also has the option to remove or add words of his choice). The blacklisted words also have weights, eg. "credit cards" has the weight 48% but "free" has weight 97% as a percentage based on their respective usage in spam mails. The user's email is classified as a spam or ham mail based on the density of the keywords in the Blacklist.
 
 The data structures used are:
